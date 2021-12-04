@@ -1,0 +1,145 @@
+body {
+    color: #202c52;
+}
+
+.aboveTheFold {
+    background: #f1f0fe;
+}
+button {
+    background-color: #202c52;
+    color: white;
+    padding: 15px;
+}
+span {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #a6aed0; 
+    font-size: small;
+}
+p {
+    color: #67759d;
+    font-size: larger;
+}
+.bottomAboveTheFold {
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.abodeTheFoldImg {
+    height: 400px;
+    width: 750px;
+   }
+
+.navBar {
+    text-align: right;
+    justify-content: space-around;
+    width: 90%;
+    margin-bottom: 80px;
+}
+.navBar span {
+    margin-right: 10px;
+}
+
+.theBody {
+    background-color: #e0f9f8;
+}
+.companiesLogos {
+    text-align: center;
+    font-size: 40px;
+}
+i {
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+h1 {
+    text-align: center;
+}
+.finalCalltoAction h1 {
+    text-align: center;
+    margin-top: 0px;
+    padding: 50px;
+}
+.theBodyExamples {
+   margin: 0px 100px;
+}
+.example {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.theBodyImg {
+    height: 300px ;
+    width: 500px;
+}
+
+.exampleFirstPart {
+    width: 50%;
+    text-align: left;
+}
+
+.exampleFirstPart h2 {
+    text-align: left;
+}
+
+.exampleSecondPart {
+    width: 50%;
+    text-align: center;
+}
+
+
+
+
+.finalCalltoAction {
+    background-color: #ffebe5;
+}
+.finalCalltoActionMiddlePart{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    margin-top: 300px;
+    margin-top: 0px;
+  
+ 
+}
+.testimonials {
+    border: 1px gray solid;
+    margin-left: 15px;
+    text-align: center;
+    padding: 10px;
+    font-size: smaller;
+
+}
+.testimonialImg {
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+}
+.markWalkerP {
+    font-weight: bold;
+    color: #202c52;
+}
+
+.finalCalltoActionFinalPart {
+    text-align: center;
+}
+
+.finalCalltoActionFinalPart h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.finalCalltoActionFinalPart p {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+hr {
+    color: linear-gradient(#e66465, #9198e5);
+}
